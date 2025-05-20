@@ -92,7 +92,7 @@ export default function KingsScholarship() {
       <main className="main-content">
         <div className="container mt-5">
           <div className="form-container">
-            <h1>King's Scholarship Registration</h1>
+            <h1>Kings Scholarship Registration</h1>
             
             <form onSubmit={handleSubmit} className="registration-form">
               <div className="form-grid">
