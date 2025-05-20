@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import prisma from '@/lib/db';
+//import prisma from '@/lib/db';
 import { verifyToken } from '@/lib/auth';
 
 export async function POST(req) {
